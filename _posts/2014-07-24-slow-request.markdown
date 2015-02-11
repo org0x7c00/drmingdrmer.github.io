@@ -6,7 +6,6 @@ categories: math engineering
 tags: slow probabilistic
 ---
 
-# 同时发出100个请求，等待所有的请求都返回才算成功。99%的请求10ms返回，1%的请求1s返回。
 能快速返回的耗时和概率有多少？怎么破?
 
 ------------
